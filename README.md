@@ -3,8 +3,7 @@
 <h1 align=center>🏕️ The Wild Oasis.</h1>
 
 <h3 align="center">
-  Build Using:
-  <img align="center"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+Build Using: React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, and dark mode.
   
 </h3>
 
