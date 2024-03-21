@@ -21,7 +21,7 @@ Build Using: React Query, Styled Components, React Hook Form, Supabase, advanced
 
 </br>
 
-<p align=center>🌐The online site: <a href="https://65fc6bfd3365df4d9c4aec5c--aesthetic-faloodeh-b6bb18.netlify.app/login" target="_blank">🏕️ The wild oasis.</a></p>
+<p align=center>🌐The online site: <a href="https://tb-the-wild-oasis.netlify.app/" target="_blank">🏕️ The wild oasis.</a></p>
 
 </br>
 
